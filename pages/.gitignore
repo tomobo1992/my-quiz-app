@@ -1,0 +1,14 @@
+# .gitignore
+
+# OSやエディタの生成物(任意でOK)
+.DS_Store
+Thumbs.db
+
+# Nodeの依存モジュール
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Next.jsのビルド出力
+.next/
+out/
